@@ -1,2 +1,2 @@
 # DiceRollerApp
-Codelab from Google - Kotlin basics
+Codelab from Google - Kotlin Basics
